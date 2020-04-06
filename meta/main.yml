@@ -1,0 +1,20 @@
+galaxy_info:
+  role_name: uberspace-web-domain
+  author: Raphael Höser
+  description: Manage web domains of your uberspace
+
+  license: ISC
+
+  min_ansible_version: 2.5
+
+  platforms:
+  - name: Uberspace
+    versions:
+    - 7
+
+  galaxy_tags:
+    - uberspace
+    - web
+    - domain
+
+dependencies: []
